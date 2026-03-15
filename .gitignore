@@ -1,0 +1,12 @@
+.pio/
+__pycache__/
+*.pyc
+.vscode/
+
+# Local hardware backups and generated firmware images
+flash_dump*.bin
+private_backups/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
