@@ -9,6 +9,13 @@ This project turns the connected M5StickC into a live external system monitor fo
 - `lenovo_stats_bridge.py`: host-side telemetry sender that reads Linux stats and streams them to the stick
 - `requirements.txt`: Python dependency list for the host bridge
 
+## Photos
+
+![Dashboard view 1](IMG_7853.jpeg)
+![Dashboard view 2](IMG_7854.jpeg)
+![Dashboard view 3](IMG_7855.jpeg)
+![Dashboard view 4](IMG_7856.jpeg)
+
 ## What the dashboard shows
 
 - CPU package temperature
